@@ -33,7 +33,7 @@ export default function ContactPage() {
 			<Loading />
 			<Modal modalContent={modalContent} />
 
-			<PageTitleHeader title="Contact Jz Home Improvement" />
+			<PageTitleHeader title="Contact JZ Home Improvement" />
 
 			<PageSection columns={1} maxWidth="1024px" padding="20px" id="schedule-quote-section">
 				<PageSectionHeader title="Schedule a Quote" />

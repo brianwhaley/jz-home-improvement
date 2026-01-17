@@ -12,7 +12,7 @@ export default function Footer() {
 				<hr style={{ margin: "0 auto", width: "80%" }} />
 				<br />
 				<div className="centered">
-					<p className="footer-text">&copy; {new Date().getFullYear()} Jz Home Improvement. All rights reserved.</p>
+					<p className="footer-text">&copy; {new Date().getFullYear()} JZ Home Improvement. All rights reserved.</p>
 				</div>
 			</div>
 		</PageSection>

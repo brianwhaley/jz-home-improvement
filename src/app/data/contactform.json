@@ -22,7 +22,7 @@
 				"type" : "hidden",
 				"id" : "subject",
 				"name" : "subject",
-				"value" : "Jz Home Improvement Contact Us Submit"
+				"value" : "JZ Home Improvement Contact Us Submit"
 			}
 		},{
 			"component" : "FormInput",

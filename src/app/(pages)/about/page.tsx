@@ -41,7 +41,7 @@ export default function AboutPage() {
 	return (
 		<>
 
-			<PageTitleHeader title="About Jz Home Improvement" />
+			<PageTitleHeader title="About JZ Home Improvement" />
 
 			<PageSection columns={1} maxWidth="1024px" padding="20px" id="team-section">
 
@@ -62,7 +62,7 @@ export default function AboutPage() {
 				
 				<PageSectionHeader title="Our History" />
 
-				<p>In the heart of the South Carolina Lowcountry, Jz Home Improvement began 
+				<p>In the heart of the South Carolina Lowcountry, JZ Home Improvement began 
 					its journey with little more than an idea and a dedication 
 					to quality. Founded in 1492, the company built 
 					its reputation one project at a time. They focused on mastering the unique 
@@ -72,7 +72,7 @@ export default function AboutPage() {
 					satisfaction quickly fostered a loyal clientele, establishing 
 					a strong foundation rooted in trust and meticulous attention to detail.</p>
 				
-				<p>As their reputation flourished through word-of-mouth, Jz Home Improvement 
+				<p>As their reputation flourished through word-of-mouth, JZ Home Improvement 
 					strategically expanded its operations to meet the demands of the areas 
 					booming growth. The small, family-owned business gradually 
 					scaled up moving to more complex projects.  
@@ -81,7 +81,7 @@ export default function AboutPage() {
 					and aesthetic excellence, adapting its bespoke service model to 
 					suit its expanding clientele.</p>
 				
-				<p>At Jz Home Improvement, the philosophy remains simple: every project 
+				<p>At JZ Home Improvement, the philosophy remains simple: every project 
 					is a testament to the art of superior service. The goal is 
 					to exceed expectations not just through the beauty of the finished work, 
 					but through exceptional service and a profound respect for the 

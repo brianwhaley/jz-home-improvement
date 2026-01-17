@@ -1,9 +1,9 @@
 {
 	"siteInfo": {
-		"name": "Jz Home Improvement",
-		"author": "Jz Home Improvement",
-		"description": "Jz Home Improvement - Modern Web Development Template",
-		"keywords": "Jz Home Improvement, web development template, modern web development",
+		"name": "JZ Home Improvement",
+		"author": "JZ Home Improvement",
+		"description": "JZ Home Improvement - Modern Web Development Template",
+		"keywords": "JZ Home Improvement, web development template, modern web development",
 		"url": "https://www.jzhomeimprovement.com",
 		"email": "jacek@jzhomeimprovement.com",
 		"favicon": "/favicon.ico",
@@ -33,42 +33,42 @@
 		{
 			"name": "Home",
 			"path": "/",
-			"title": "Jz Home Improvement - Home",
+			"title": "JZ Home Improvement - Home",
 			"description": "",
 			"keywords": ""
 		},
 		{
 			"name": "About",
 			"path": "/about",
-			"title": "Jz Home Improvement - About",
+			"title": "JZ Home Improvement - About",
 			"description": "",
 			"keywords": ""
 		},
 		{
 			"name": "FAQs",
 			"path": "/faqs",
-			"title": "Jz Home Improvement - FAQs",
+			"title": "JZ Home Improvement - FAQs",
 			"description": "",
 			"keywords": ""
 		},
 		{
 			"name": "Projects",
 			"path": "/projects",
-			"title": "Jz Home Improvement - Projects",
+			"title": "JZ Home Improvement - Projects",
 			"description": "",
 			"keywords": ""
 		},
 		{
 			"name": "Contact",
 			"path": "/contact",
-			"title": "Jz Home Improvement - Contact",
+			"title": "JZ Home Improvement - Contact",
 			"description": "",
 			"keywords": ""
 		},
 		{
 			"name": "Services",
 			"path": "/services",
-			"title": "Jz Home Improvement - services",
+			"title": "JZ Home Improvement - services",
 			"description": "",
 			"keywords": ""
 		}

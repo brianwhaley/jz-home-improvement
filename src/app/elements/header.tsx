@@ -15,8 +15,8 @@ export default function Header() {
 			<PageSection columns={1} id="header-section">
 				<SmartImage
 					id="logo"
-					src="/images/placeholder.png"
-					alt="Jz Home Improvement Logo"
+					src="/images/jz-home-improvement.png"
+					alt="JZ Home Improvement Logo"
 					width={120}
 					height={120}
 				/>

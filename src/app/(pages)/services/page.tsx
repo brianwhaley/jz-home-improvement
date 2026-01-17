@@ -7,7 +7,7 @@ export default function ServicesPage() {
 	return (
 		<>
 
-			<PageTitleHeader title="Jz Home Improvement Services" />
+			<PageTitleHeader title="JZ Home Improvement Services" />
 
 			<PageSection columns={1} maxWidth="1024px" padding="20px" id="service-section">
 				<Callout
