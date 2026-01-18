@@ -15,10 +15,10 @@ export default function Header() {
 			<PageSection columns={1} id="header-section">
 				<SmartImage
 					id="logo"
-					src="/images/jz-home-improvement.png"
+					src="/images/logo/jz-home-improvement.png"
 					alt="JZ Home Improvement Logo"
-					width={120}
-					height={120}
+					width={500}
+					height={500}
 				/>
 			</PageSection>
 		</>
