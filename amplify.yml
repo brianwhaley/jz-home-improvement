@@ -16,6 +16,8 @@ frontend:
         - node -v
         - npm run build
         - npm run generate-site-images
+        - echo "Ensure public/ is included in the artifact (copy into .next)"
+        - mkdir -p .next && cp -a public/. .next/ || true
     postBuild:
       commands:
         - echo "Calling Config Vault postbuild"
