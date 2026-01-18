@@ -8,22 +8,22 @@ export default function ProjectsPage() {
 	const TenJadeLaundry = [
 		{
 			index: 0, cardIndex: 0, cardLength: 8,
-			image: "/images/projects/10jadelaundry/2023-11-08-23.03.52.jpg",
+			image: "/images/10jadelaundry/2023-11-08-23.03.52.jpg",
 			imageAlt: "10 Jade Bathroom 4 - Before - Corner Jacuzzi Tub with brown marble surround",
 		},
 		{
 			index: 1, cardIndex: 1, cardLength: 8,
-			image: "/images/projects/10jadelaundry/2023-11-10-15.08.21.jpg",
+			image: "/images/10jadelaundry/2023-11-10-15.08.21.jpg",
 			imageAlt: "10 Jade Bathroom 4 - Phase 1 - Front angle of new tile flooring",
 		},
 		{
 			index: 2, cardIndex: 2, cardLength: 8,
-			image: "/images/projects/10jadelaundry/2024-02-01-15.37.21.jpg",
+			image: "/images/10jadelaundry/2024-02-01-15.37.21.jpg",
 			imageAlt: "10 Jade Bathroom 4 - Phase 1 - Side view of new tile flooring",
 		},
 		{
 			index: 2, cardIndex: 2, cardLength: 8,
-			image: "/images/projects/10jadelaundry/2023-11-13-20.14.01.jpg",
+			image: "/images/10jadelaundry/2023-11-13-20.14.01.jpg",
 			imageAlt: "10 Jade Bathroom 4 - Phase 1 - Tile is installed and room is ready for new cabinets and stonework",
 		}
 	];
@@ -31,27 +31,27 @@ export default function ProjectsPage() {
 	const TenJadeBathroom1 = [
 		{
 			index: 0, cardIndex: 0, cardLength: 5,
-			image: "/images/projects/10jadebathroom1/2024-02-01-15.00.21.jpg",
+			image: "/images/10jadebathroom1/2024-02-01-15.00.21.jpg",
 			imageAlt: "10 Jade Bathroom 1 - Completed - Glass shower and tile walls and floors with quartzite countertop and custom carved sink",
 		},
 		{
 			index: 1, cardIndex: 1, cardLength: 5,
-			image: "/images/projects/10jadebathroom1/2024-02-01-15.00.16.jpg",
+			image: "/images/10jadebathroom1/2024-02-01-15.00.16.jpg",
 			imageAlt: "10 Jade Bathroom 1 - Completed - Glass shower and tile walls and floors with quartzite countertop and custom carved sink",
 		},
 		{
 			index: 2, cardIndex: 2, cardLength: 5,
-			image: "/images/projects/10jadebathroom1/2023-11-03-16.58.15.jpg",
+			image: "/images/10jadebathroom1/2023-11-03-16.58.15.jpg",
 			imageAlt: "10 Jade Bathroom 1 - Completed - Glass shower and tile walls and floors with quartzite countertop and custom carved sink",
 		},
 		{
 			index: 2, cardIndex: 2, cardLength: 5,
-			image: "/images/projects/10jadebathroom1/2023-10-24-17.38.43.jpg",
+			image: "/images/10jadebathroom1/2023-10-24-17.38.43.jpg",
 			imageAlt: "10 Jade Bathroom 1 - Completed - Detail of shower inset shelf with tile accents",
 		},
 		{
 			index: 2, cardIndex: 2, cardLength: 5,
-			image: "/images/projects/10jadebathroom1/2023-10-24-17.38.55.jpg",
+			image: "/images/10jadebathroom1/2023-10-24-17.38.55.jpg",
 			imageAlt: "10 Jade Bathroom 1 - Complete - Detail of shower tile flooring and custom drain",
 		}
 	];
@@ -59,17 +59,17 @@ export default function ProjectsPage() {
 	const TenJadeBathroom2 = [
 		{
 			index: 0, cardIndex: 0, cardLength: 3,
-			image: "/images/projects/10jadebathroom2/2023-11-05-19.02.49.jpg",
+			image: "/images/10jadebathroom2/2023-11-05-19.02.49.jpg",
 			imageAlt: "10 Jade Bathroom 2 - Completed - Tile accent wall with stone bowl sink and stone countertop with accent wall lighting",
 		},
 		{
 			index: 1, cardIndex: 1, cardLength: 3,
-			image: "/images/projects/10jadebathroom2/img_9920.webp",
+			image: "/images/10jadebathroom2/img_9920.webp",
 			imageAlt: "10 Jade Bathroom 2 - Completed - Tile accent wall with stone bowl sink and stone countertop with accent wall lighting",
 		},
 		{
 			index: 2, cardIndex: 2, cardLength: 3,
-			image: "/images/projects/10jadebathroom2/img_9927.webp",
+			image: "/images/10jadebathroom2/img_9927.webp",
 			imageAlt: "10 Jade Bathroom 2 - Completed - Tile accent wall with stone bowl sink and stone countertop with accent wall lighting",
 		}
 	];
@@ -77,17 +77,17 @@ export default function ProjectsPage() {
 	const TenJadeBathroom3 = [
 		{
 			index: 0, cardIndex: 0, cardLength: 3,
-			image: "/images/projects/10jadebathroom3/2023-11-20-13.42.38.jpg",
+			image: "/images/10jadebathroom3/2023-11-20-13.42.38.jpg",
 			imageAlt: "10 Jade Bathroom 3 - Completed - New vanity with stone countertop and black stone sink",
 		},
 		{
 			index: 1, cardIndex: 1, cardLength: 3,
-			image: "/images/projects/10jadebathroom3/2024-02-01-15.34.38.jpg",
+			image: "/images/10jadebathroom3/2024-02-01-15.34.38.jpg",
 			imageAlt: "10 Jade Bathroom 3 - Completed - Detail of varieties of hexagon tile flooring",
 		},
 		{
 			index: 2, cardIndex: 2, cardLength: 3,
-			image: "/images/projects/10jadebathroom3/2024-02-01-15.34.22.jpg",
+			image: "/images/10jadebathroom3/2024-02-01-15.34.22.jpg",
 			imageAlt: "10 Jade Bathroom 3 - Completed - All new hexagon tile flooring, new vanity with stone countertop and black stone sink",
 		}
 	];
@@ -95,41 +95,41 @@ export default function ProjectsPage() {
 	const TenJadeBathroom4 = [
 		{
 			index: 0, cardIndex: 0, cardLength: 8,
-			image: "/images/projects/10jadebathroom4/img_9823.webp",
+			image: "/images/10jadebathroom4/img_9823.webp",
 			imageAlt: "10 Jade Bathroom 4 - Before - Corner Jacuzzi Tub with brown marble surround",
 		},
 		{
 			index: 1, cardIndex: 1, cardLength: 8,
-			image: "/images/projects/10jadebathroom4/img_9820.webp",
+			image: "/images/10jadebathroom4/img_9820.webp",
 			imageAlt: "10 Jade Bathroom 4 - Before - Brown marble shower with glass door",
 		},
 		{
 			index: 2, cardIndex: 2, cardLength: 8,
-			image: "/images/projects/10jadebathroom4/img_9821.webp",
+			image: "/images/10jadebathroom4/img_9821.webp",
 			imageAlt: "10 Jade Bathroom 4 - Before - Brown wood vanity with stone counter, double sink and mirror",
 		}, {
 			index: 3, cardIndex: 3, cardLength: 8,
-			image: "/images/projects/10jadebathroom4/img_0737.webp",
+			image: "/images/10jadebathroom4/img_0737.webp",
 			imageAlt: "10 Jade Bathroom 4 - Completed - 6 foot soaking tub with tile surround",
 		},
 		{
 			index: 4, cardIndex: 4, cardLength: 8,
-			image: "/images/projects/10jadebathroom4/img_0745.webp",
+			image: "/images/10jadebathroom4/img_0745.webp",
 			imageAlt: "10 Jade Bathroom 4 - Completed - Glass enclosed shower with tile walls and floor",
 		},
 		{
 			index: 5, cardIndex: 5, cardLength: 8,
-			image: "/images/projects/10jadebathroom4/img_0738.webp",
+			image: "/images/10jadebathroom4/img_0738.webp",
 			imageAlt: "10 Jade Bathroom 4 - Completed - Vanity with Medusa Onyx stone countertop, double sinks and large lit mirror",
 		}, 
 		{
 			index: 6, cardIndex: 6, cardLength: 8,
-			image: "/images/projects/10jadebathroom4/img_0743.webp",
+			image: "/images/10jadebathroom4/img_0743.webp",
 			imageAlt: "10 Jade Bathroom 4 - Completed - Underlit vanity with Medusa Onyx countertop, double sinks and large lit mirror",
 		}, 
 		{
 			index: 7, cardIndex: 7, cardLength: 8,
-			image: "/images/projects/10jadebathroom4/img_0581.webp",
+			image: "/images/10jadebathroom4/img_0581.webp",
 			imageAlt: "10 Jade Bathroom 4 - Completed - Underlit vanity with double sinks and large lit mirror",
 		}
 	];
@@ -137,12 +137,12 @@ export default function ProjectsPage() {
 	const TenJadeDeck = [
 		{
 			index: 0, cardIndex: 0, cardLength: 3,
-			image: "/images/projects/10jadedeck/2024-09-25-01.27.57.webp",
+			image: "/images/10jadedeck/2024-09-25-01.27.57.webp",
 			imageAlt: "10 Jade Deck - Before - Demolition of old deck",
 		},
 		{
 			index: 1, cardIndex: 1, cardLength: 3,
-			image: "/images/projects/10jadedeck/img_2656.webp",
+			image: "/images/10jadedeck/img_2656.webp",
 			imageAlt: "10 Jade Deck - Completed - all new boards in herringbone pattern",
 		},
 		{
@@ -155,32 +155,32 @@ export default function ProjectsPage() {
 	const TenJadeKitchen = [
 		{
 			index: 0, cardIndex: 0, cardLength: 6,
-			image: "/images/projects/10jadekitchen/img_2427.jpeg",
+			image: "/images/10jadekitchen/img_2427.jpeg",
 			imageAlt: "10 Jade Kitchen - Demolition has begun",
 		},
 		{
 			index: 1, cardIndex: 1, cardLength: 6,
-			image: "/images/projects/10jadekitchen/img_2428.jpeg",
+			image: "/images/10jadekitchen/img_2428.jpeg",
 			imageAlt: "10 Jade Kitchen - Demolition to the studs and plywood",
 		},
 		{
 			index: 2, cardIndex: 2, cardLength: 6,
-			image: "/images/projects/10jadekitchen/2025-09-03-16.17.30.jpg",
+			image: "/images/10jadekitchen/2025-09-03-16.17.30.jpg",
 			imageAlt: "10 Jade Kitchen - Stone choice for the island countertop",
 		},
 		{
 			index: 3, cardIndex: 3, cardLength: 6,
-			image: "/images/projects/10jadekitchen/2025-09-12-09.28.05.jpg",
+			image: "/images/10jadekitchen/2025-09-12-09.28.05.jpg",
 			imageAlt: "10 Jade Kitchen - Stone choice for the perimeter countertops",
 		},
 		{
 			index: 4, cardIndex: 4, cardLength: 6,
-			image: "/images/projects/10jadekitchen/img_3350.jpeg",
+			image: "/images/10jadekitchen/img_3350.jpeg",
 			imageAlt: "10 Jade Kitchen - Adding final electrical fixture above the island",
 		},
 		{
 			index: 5, cardIndex: 5, cardLength: 6,
-			image: "/images/projects/10jadekitchen/img_3438.jpeg",
+			image: "/images/10jadekitchen/img_3438.jpeg",
 			imageAlt: "10 Jade Kitchen - Finishing crown molding installation above cabinets, attention to detail",
 		}
 	];
