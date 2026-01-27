@@ -30,3 +30,42 @@ header {
 		object-fit: contain;
 	}
 }
+
+.modal-content {
+    margin: 5% auto;
+    max-width: 95%;
+}
+
+
+
+
+/* ===== GLOBAL TILE STYLES ====== */
+
+.tiles-container, .tile-container, .tile {
+    margin: 5px;
+}
+
+.tile.caption .tile-image-overlay {
+    height: 140px !important;
+}
+
+.tile.caption .tile-image-overlay-title {
+    font-size: var(--font-size4);
+}
+
+
+/* ===== HOME PAGE STYLES ====== */
+
+.hero h1, .hero h2 {
+
+	color: white;
+	text-shadow:
+		-1px 1px 1px black,
+		1px 1px 1px black,
+		1px -1px 1px black,
+		-1px -1px 1px black,
+		-1px 1px 5px black,
+		1px 1px 5px black,
+		1px -1px 5px black,
+		-1px -1px 5px black;
+}

@@ -29,7 +29,7 @@ export default function ServicesPage() {
 					gridColumns={{left:3, right:1}}
 					layout="horizontal"
 					direction="right"
-					img="/images/placeholder.png"
+					img="/images/10jadebathroom4/img_0738.webp"
 					title="Bathrooms"
 					content="A bathroom remodel can transform your space into a relaxing oasis.
 					We specialize in custom tile work, shower and tub installation, vanity 
@@ -55,7 +55,7 @@ export default function ServicesPage() {
 					gridColumns={{left:3, right:1}}
 					layout="horizontal"
 					direction="right"
-					img="/images/placeholder.png"
+					img="/images/10jadedeck/img_2656.webp"
 					title="Decks"
 					content="Enhance your outdoor living space with a custom deck built by our experienced team.
 					We offer a variety of materials and styles to choose from, including wood, composite,

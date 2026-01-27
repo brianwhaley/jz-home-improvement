@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
 	reactStrictMode: true,
 
 	experimental: {
-    	optimizeCss: true,
+    	optimizeCss: false,
   	},
 	transpilePackages: ['@pixelated-tech/components'],
 	trailingSlash: false,

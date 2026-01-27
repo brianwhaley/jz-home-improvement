@@ -62,36 +62,15 @@ export default function AboutPage() {
 				
 				<PageSectionHeader title="Our History" />
 
-				<p>In the heart of the South Carolina Lowcountry, JZ Home Improvement began 
-					its journey with little more than an idea and a dedication 
-					to quality. Founded in 1492, the company built 
-					its reputation one project at a time. They focused on mastering the unique 
-					challenges of the Lowcountry, offering personalized services 
-					that transformed things that were not-so-good into things tat are spectacular.
-					Their hands-on approach and commitment to individual 
-					satisfaction quickly fostered a loyal clientele, establishing 
-					a strong foundation rooted in trust and meticulous attention to detail.</p>
-				
-				<p>As their reputation flourished through word-of-mouth, JZ Home Improvement 
-					strategically expanded its operations to meet the demands of the areas 
-					booming growth. The small, family-owned business gradually 
-					scaled up moving to more complex projects.  
-					Yet, despite taking on bigger challenges, 
-					the company remained true to its founding principles of reliability 
-					and aesthetic excellence, adapting its bespoke service model to 
-					suit its expanding clientele.</p>
-				
-				<p>At JZ Home Improvement, the philosophy remains simple: every project 
-					is a testament to the art of superior service. The goal is 
-					to exceed expectations not just through the beauty of the finished work, 
-					but through exceptional service and a profound respect for the 
-					region. We are dedicated to delivering unparalleled 
-					quality using sustainable practices that enhance the community 
-					of the Lowcountry, ensuring that every project we take on — whether 
-					a small fix or a major undertaking — flourishes in harmony 
-					with the community it serves. The commitment is unwavering: 
-					creating lasting beauty, one project at a time.</p>
+				<p>Jacek Machnik, the founder and owner of JZ Home Improvement, began his professional journey long before arriving on American soil. Back in Poland, he underwent rigorous technical training to become a skilled electrician, establishing a strong foundation in the trades. This specialized background provided him with the technical precision and work ethic that would eventually define his career in the United States. In 1995, Jacek made the life-changing decision to emigrate from Poland alongside his wife and their 18-month-old son. Seeking new opportunities, he utilized his expertise to launch his own business and build a legacy for his family.
+				</p>
 
+				<p>Since his arrival, Jacek has called Union, New Jersey, his home and the primary hub for his professional operations. Over the past 30 years, he has focused on growing JZ Home Improvement through a steadfast commitment to high-quality craftsmanship and fair, reasonable pricing. His business model relies heavily on his stellar reputation and the power of word-of-mouth recommendations from satisfied clients. Customers frequently return for new projects because they trust his ability to deliver exceptional results without overcharging. By consistently making his clients happy, he has turned a small family venture into a local staple in the home improvement industry.
+				</p>
+
+				<p>Beyond his technical skills, Jacek is deeply rooted in the social fabric of his community and the surrounding areas. He maintains strong cultural ties to the Polish, German, and Ukrainian communities, fostering a sense of trust and shared heritage. Known for his personable demeanor, he is a well-connected figure who regularly recommends other local businesses and complementary services to his clients. This commitment to the local economy ensures that his success also benefits the neighbors and colleagues he interacts with daily. Jacek’s dedication to his craft and his community has made him a respected leader and a go-to professional for families across the region.
+				</p>
+				
 			</PageSection>
 
 			<PageSection columns={1} maxWidth="1024px" padding="20px" id="feedback-section">
